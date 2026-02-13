@@ -6,7 +6,7 @@ var scriptConfig = {
   scriptData: {
     prefix: 'ownHomeTroopsCount',
     name:   'Own Home Troops Count',
-    version:'v2 (versão TWF)',
+    version:'v3 (versão 60cm)',
     author: 'RedAlert',
     authorUrl: 'https://twscripts.dev/',
     helpLink:  'https://forum.tribalwars.net/index.php?threads/own-home-troops-count.286618/'
@@ -117,7 +117,7 @@ function buildUI() {
 
     const discordButton = `
   <button id="sendToDiscord" class="btn-twf">
-    <img src="https://i.imgur.com/8n7jRL9.png" alt="TWF">
+    <img src="https://i.imgur.com/8n7jRL9.png" alt="60cm">
     Partilhar defesa disponível no ticket
   </button>
 `;
