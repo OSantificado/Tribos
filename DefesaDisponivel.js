@@ -7,8 +7,10 @@ var scriptConfig = {
     prefix: 'ownHomeTroopsCount',
     name:   'Own Home Troops Count',
     version:'v3 (versão 60cm)',
-    author: 'RedAlert', 'O Santificado',
+    author: 'RedAlert',
     authorUrl: 'https://twscripts.dev/',
+    editor: 'O Santificado',
+    editorUrl: 'https://pt.twstats.com/pt102/index.php?page=player&id=2448649/',
     helpLink:  'https://forum.tribalwars.net/index.php?threads/own-home-troops-count.286618/'
   },
 
